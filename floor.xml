@@ -1,0 +1,6 @@
+<floorplan>
+  <wall startx="0" starty="0" endx="100" endy="0">
+  <wall startx="100" starty="0" endx="100" endy="100">
+  <wall startx="100" starty="100" endx="0" endy="100">
+  <wall startx="0" starty="100" endx="0" endy="0">
+</floorplan>
